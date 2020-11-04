@@ -1,0 +1,17 @@
+D:\temp\desk-temp\SpecFlowSample\SampleLibrary\SampleLibrary\bin\Debug\netcoreapp3.1\SampleLibrary.deps.json
+D:\temp\desk-temp\SpecFlowSample\SampleLibrary\SampleLibrary\bin\Debug\netcoreapp3.1\SampleLibrary.dll
+D:\temp\desk-temp\SpecFlowSample\SampleLibrary\SampleLibrary\bin\Debug\netcoreapp3.1\SampleLibrary.pdb
+D:\temp\desk-temp\SpecFlowSample\SampleLibrary\SampleLibrary\obj\Debug\netcoreapp3.1\SampleLibrary.AssemblyInfoInputs.cache
+D:\temp\desk-temp\SpecFlowSample\SampleLibrary\SampleLibrary\obj\Debug\netcoreapp3.1\SampleLibrary.AssemblyInfo.cs
+D:\temp\desk-temp\SpecFlowSample\SampleLibrary\SampleLibrary\obj\Debug\netcoreapp3.1\SampleLibrary.csproj.CoreCompileInputs.cache
+D:\temp\desk-temp\SpecFlowSample\SampleLibrary\SampleLibrary\obj\Debug\netcoreapp3.1\SampleLibrary.dll
+D:\temp\desk-temp\SpecFlowSample\SampleLibrary\SampleLibrary\obj\Debug\netcoreapp3.1\SampleLibrary.pdb
+D:\vstempsamples\SpecFlowSample\SampleLibrary\SampleLibrary\bin\Debug\netcoreapp3.1\SampleLibrary.deps.json
+D:\vstempsamples\SpecFlowSample\SampleLibrary\SampleLibrary\bin\Debug\netcoreapp3.1\SampleLibrary.dll
+D:\vstempsamples\SpecFlowSample\SampleLibrary\SampleLibrary\bin\Debug\netcoreapp3.1\SampleLibrary.pdb
+D:\vstempsamples\SpecFlowSample\SampleLibrary\SampleLibrary\obj\Debug\netcoreapp3.1\SampleLibrary.csprojAssemblyReference.cache
+D:\vstempsamples\SpecFlowSample\SampleLibrary\SampleLibrary\obj\Debug\netcoreapp3.1\SampleLibrary.AssemblyInfoInputs.cache
+D:\vstempsamples\SpecFlowSample\SampleLibrary\SampleLibrary\obj\Debug\netcoreapp3.1\SampleLibrary.AssemblyInfo.cs
+D:\vstempsamples\SpecFlowSample\SampleLibrary\SampleLibrary\obj\Debug\netcoreapp3.1\SampleLibrary.csproj.CoreCompileInputs.cache
+D:\vstempsamples\SpecFlowSample\SampleLibrary\SampleLibrary\obj\Debug\netcoreapp3.1\SampleLibrary.dll
+D:\vstempsamples\SpecFlowSample\SampleLibrary\SampleLibrary\obj\Debug\netcoreapp3.1\SampleLibrary.pdb
